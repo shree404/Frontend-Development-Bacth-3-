@@ -1,0 +1,5 @@
+Hii my name is shreesha .
+
+ git init 
+ git add intro.txt
+ git status - provide status 
