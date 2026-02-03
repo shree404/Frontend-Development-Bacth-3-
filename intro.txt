@@ -1,5 +1,12 @@
 Hii my name is shreesha .
 
- git init 
- git add intro.txt
+git init 
+git add intro.txt / git add .
+git commit -m "Commit message" 
+git push origin branchname (master : main)
+
+git remote add origin repolink
+
  git status - provide status 
+ git remote -v : ti check remote repository
+ git branch
