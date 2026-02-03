@@ -10,3 +10,9 @@ git remote add origin repolink
  git status - provide status 
  git remote -v : ti check remote repository
  git branch
+
+
+ git branch branchName - to create new branch
+ git checkout branchname / git switch branchname - to switch into specific branch 
+
+
