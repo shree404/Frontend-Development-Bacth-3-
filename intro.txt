@@ -21,4 +21,8 @@ git branch -d branchname - Shows warning if there any remaining merge or commit 
 git branch -D branchname - Delete that branch without any warning (delete forcefully)
 
 
+git clone repolink  : It clone default branch
+git clone -b branchname --single-branch repolink :clone  Specific branch 
+
+
 
