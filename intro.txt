@@ -19,3 +19,6 @@ git remote add origin repolink
 
 git branch -d branchname - Shows warning if there any remaining merge or commit to push
 git branch -D branchname - Delete that branch without any warning (delete forcefully)
+
+
+
